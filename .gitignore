@@ -22,4 +22,5 @@
 hs_err_pid*
 
 # Module files
-*.iml
+**/*.iml
+.idea/**
